@@ -5,7 +5,7 @@ version: 1.0.0
 keywords:
   - default-backend
   - kubernetes
-home: https://github.com/stakater/chart-default-backend
+home: https://github.com/stakater-charts/default-backend
 maintainers:
 - name: Stakater
   email: stakater@aurorasolutions.io
