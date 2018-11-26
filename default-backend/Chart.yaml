@@ -1,7 +1,7 @@
 apiVersion: v1
 name: default-backend
 description: default-backend chart that runs on kubernetes
-version: 1.0.0
+version: 0.0.2
 keywords:
   - default-backend
   - kubernetes
